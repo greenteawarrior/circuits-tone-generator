@@ -1,0 +1,8 @@
+.subckt CurrentStarvedInverter Vb Vdd Vin Vout
+Mb N001 Vb 0 
+M1 N003 Vb 0  
+M2 Vout Vin N003 
+M3 Vout Vin N002 
+M4 N002 N001 Vdd 
+M5 N001 N001 Vdd
+.ends
