@@ -4,7 +4,7 @@ circuits-tone-generator
 because LTspice projects deserve version control too!
 
 ###Things we've got
-* Subcircuits!
+* Custom symbols
 * CurrentStarvedInverter (but with 10% sadness)
 
 ###Things we need
