@@ -1,4 +1,4 @@
-* C:\Users\fschneider\Dropbox\GitHub\circuits-tone-generator\CurrentStarvedInverter.asc
+* C:\Users\ewang\Documents\GitHub\circuits-tone-generator\CurrentStarvedInverter.asc
 XU1 Vout Vin P001 nmos3
 XU2 P001 Vb 0 nmos3
 XU3 Vout Vin P002 pmos3

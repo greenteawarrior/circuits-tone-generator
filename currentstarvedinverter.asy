@@ -2,8 +2,7 @@ Version 4
 SymbolType BLOCK
 LINE Normal -144 0 -64 0
 LINE Normal 160 0 65 0
-LINE Normal -47 -127 -47 -64
-LINE Normal 49 -126 49 -64
+LINE Normal 1 -127 1 -64
 RECTANGLE Normal 65 65 -64 -64
 PIN -144 0 LEFT 8
 PINATTR PinName Vin
@@ -11,9 +10,6 @@ PINATTR SpiceOrder 1
 PIN 160 0 RIGHT 8
 PINATTR PinName Vout
 PINATTR SpiceOrder 2
-PIN -48 -128 TOP 8
-PINATTR PinName Vb 
+PIN 0 -128 TOP 8
+PINATTR PinName Vb
 PINATTR SpiceOrder 3
-PIN 48 -128 TOP 8
-PINATTR PinName Vdd
-PINATTR SpiceOrder 4
