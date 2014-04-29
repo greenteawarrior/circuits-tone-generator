@@ -1,4 +1,4 @@
-* C:\Users\fschneider\Dropbox\GitHub\circuits-tone-generator\RingOscillator.asc
+* C:\Users\ewang\Documents\GitHub\circuits-tone-generator\RingOscillator.asc
 V§Bias N002 0 0.31
 Vdd P001 0 5
 XU1 P001 vdd
@@ -20,7 +20,7 @@ XU6 N001 Vb 0 nmos3
 .include engr2420.sub
 .ends currentstarvedinverter
 
-.tran 0 400m 0 100u
+.tran 0 1000m 0 100u
 .include engr2420.sub
 .step param Bias 0.2 0.5 0.1
 .param Bias 0.3
