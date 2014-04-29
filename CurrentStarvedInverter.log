@@ -1,3 +1,22 @@
 Circuit: * C:\Users\fschneider\Dropbox\GitHub\circuits-tone-generator\CurrentStarvedInverter.asc
 
-Fatal Error: Current: Missing capacitance value.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Apr 29 09:27:35 2014
+Total elapsed time: 0.092 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5868
+traniter = 5843
+tranpoints = 1208
+accept = 1029
+rejected = 179
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1: 754 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.4
+
+
