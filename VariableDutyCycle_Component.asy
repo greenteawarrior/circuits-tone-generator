@@ -1,0 +1,15 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -16 -16 -47 -16
+LINE Normal -16 16 -48 16
+LINE Normal 17 0 48 0
+RECTANGLE Normal 17 32 -16 -31
+PIN -48 -16 RIGHT 8
+PINATTR PinName Iin
+PINATTR SpiceOrder 1
+PIN -48 16 RIGHT 8
+PINATTR PinName Vb
+PINATTR SpiceOrder 2
+PIN 48 0 LEFT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 3
